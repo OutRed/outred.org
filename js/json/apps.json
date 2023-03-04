@@ -1,0 +1,27 @@
+[
+    {
+        "title": "about:blank Embedder",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/aboutblank.webp",
+        "link": "/main/embedder"
+    },
+    {
+        "title": "Private Chatroom",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/chat.png",
+        "link": "/main/redirectchatroom"
+    },
+    {
+        "title": "Meme SFX",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/sfximg.jpg",
+        "link": "/main/sfx"
+    },
+    {
+        "title": "Holy Unblocker",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/hbimg.png",
+        "link": "/main/redirecthb"
+    },
+    {
+        "title": "Wombgnix Unblocker",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/womgnix.png",
+        "link": "/main/redirectwb"
+    }
+]

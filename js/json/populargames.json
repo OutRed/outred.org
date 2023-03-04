@@ -1,0 +1,22 @@
+[
+    {
+      "title": "1v1.lol",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp",
+      "link": "/g/1v1lol"
+    },
+    {
+      "title": "Idle Breakout",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/idlebreakout.png",
+      "link": "/outred.github.io-idle-breakout/"
+    },
+    {
+      "title": "Slope",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/38AD7E36-E391-451F-9BBA-AE8F85073A91.jpeg",
+      "link": "/Slope-Game"
+    },
+    {
+        "title": "Tunnel Rush",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg",
+        "link": "/tunnel-rush"
+      }
+  ]
