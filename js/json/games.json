@@ -67,7 +67,7 @@
       {
         "title": "2048",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/2048_logo.svg.webp",
-        "link": "/2048"
+        "link": "/g/2048/index.html"
       },
       {
         "title": "Dino Game 3D",
@@ -118,5 +118,65 @@
         "title": "Duck Life 3",
         "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/img/ducklife3.jpeg",
         "link": "/g/ducklife3/index.html"
-      }
+      },
+      {
+        "title": "Basketball Stars",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/basketball-stars/assets/images/basketball-stars.png",
+        "link": "/g/basketball-stars/index.html"
+      },
+      {
+        "title": "BitLife",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/bitlife/logo.png",
+        "link": "/g/bitlife/index.html"
+      },
+      {
+        "title": "Draw the Hill",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/draw-the-hill/icons/icon-512.png",
+        "link": "/g/draw-the-hill/index.html"
+      },
+      {
+        "title": "Elastic Man",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/elasticman/elasticman.jpg",
+        "link": "/g/elasticman/index.html"
+      },
+      {
+        "title": "Moto X3M",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/motox3m/splash.jpg",
+        "link": "/g/motox3m/index.html"
+      },
+      {
+        "title": "Moto X3M Pool",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/motox3m-pool/splash.jpg",
+        "link": "/g/motox3m-pool/index.html"
+      },
+      {
+        "title": "Moto X3M Spooky",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/motox3m-spooky/splash.jpeg",
+        "link": "/g/motox3m-spooky/index.html"
+      },
+      {
+        "title": "Moto X3M Winter",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/motox3m-winter/download.jpeg",
+        "link": "/g/motox3m-winter/index.html"
+      },
+      {
+        "title": "Retro Bowl",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/retro-bowl/img/icon.jpg",
+        "link": "/g/retro-bowl/index.html"
+      },
+      {
+        "title": "Roblox",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/roblox/splash.png",
+        "link": "/g/roblox/index.html"
+      },
+      {
+        "title": "Super Mario 64",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/sm64/logo.png",
+        "link": "/g/sm64/index.html"
+      },
+      {
+        "title": "Worlds Hardest Game 2",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
+        "link": "/g/worlds-hardest-game-2/index.html"
+      },
   ]
