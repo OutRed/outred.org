@@ -12,27 +12,27 @@
     {
       "title": "Among Us",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/amongus.jpg",
-      "link": "/g/among-us"
+      "link": "/g/among-us/index.html"
     },
     {
       "title": "1v1.lol",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp",
-      "link": "/g/1v1lol"
+      "link": "/g/1v1lol/index.html"
     },
     {
       "title": "Minecraft Java",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/minecraft.png",
-      "link": "/g/minecraft-18"
+      "link": "/g/minecraft-18/index.html"
     },
     {
       "title": "Krunker",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/krunker.png",
-      "link": "/g/krunker"
+      "link": "/g/krunke/index.htmlr"
     },
     {
         "title": "Zombs Royale",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/zombs.png",
-        "link": "/g/zombs"
+        "link": "/g/zombs/index.html"
       },
       {
         "title": "You're Jeff Bezos",
@@ -42,12 +42,12 @@
       {
         "title": "Tunnel Rush",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg",
-        "link": "/tunnel-rush"
+        "link": "/tunnel-rush/index.html"
       },
       {
         "title": "Arena Scratch",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/arena.png",
-        "link": "/arena-scratch"
+        "link": "/arena-scratch/index.html"
       },
       {
         "title": "Flappy Bird",
@@ -77,31 +77,31 @@
       {
         "title": "Worlds Hardest Game",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/g/worlds-hardest-game/images/splash.jpg",
-        "link": "/g/worlds-hardest-game"
+        "link": "/g/worlds-hardest-game/index.html"
       },
       {
         "title": "Backrooms",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/backroomsimg.jpg",
-        "link": "/g/backrooms"
+        "link": "/g/backrooms/index.html"
       },
       {
         "title": "Paper.io 2",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/paper.jpg",
-        "link": "/g/paperio2"
+        "link": "/g/paperio2/index.html"
       },
       {
         "title": "CS Go Clicker",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/csgo-case-clicker.jpg",
-        "link": "/g/csgo-clicker"
+        "link": "/g/csgo-clicker/index.html"
       },
       {
         "title": "Shell Shockers",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/shellshock.png",
-        "link": "/g/shellshockers"
+        "link": "/g/shellshockers/index.html"
       },
       {
         "title": "Storm the House 2",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/storm-house-2.jpg",
-        "link": "/g/stormthehouse2"
+        "link": "/g/stormthehouse2/index.html"
       }
   ]
