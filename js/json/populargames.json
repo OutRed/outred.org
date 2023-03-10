@@ -2,7 +2,7 @@
     {
       "title": "1v1.lol",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/1v1.webp",
-      "link": "/g/1v1lol"
+      "link": "/g/1v1lol/index.html"
     },
     {
       "title": "Idle Breakout",
@@ -17,6 +17,6 @@
     {
         "title": "Tunnel Rush",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/tunnelrush.jpg",
-        "link": "/tunnel-rush"
+        "link": "/tunnel-rush/index.html"
       }
   ]
