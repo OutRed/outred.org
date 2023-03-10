@@ -64,8 +64,7 @@ body {
     cursor: pointer;
     background-color: #880ED4;
     z-index: 1;
-    /* just a test */
-    box-shadow: 0 8px 6px -6px #8B008B;
+    box-shadow: 0 8px 6px -6px #880ED4;
   }
 
   .game:active {
@@ -118,6 +117,7 @@ body {
     cursor: pointer;
     background-color: #880ED4;
     z-index: 1;
+    box-shadow: 0 8px 6px -6px #880ED4;
   }
 
   .popularapp:active {
@@ -169,6 +169,7 @@ body {
     cursor: pointer;
     background-color: #880ED4;
     z-index: 1;
+    box-shadow: 0 8px 6px -6px #880ED4;
   }
 
   .populargame:active {
