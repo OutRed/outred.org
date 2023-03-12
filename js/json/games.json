@@ -178,5 +178,10 @@
         "title": "Worlds Hardest Game 2",
         "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/worlds-hardest-game-2/the-worlds-hardest-game-2.jpg",
         "link": "/g/worlds-hardest-game-2/index.html"
-      }
+      },
+      {
+        "title": "Flappy Plane",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/img/flappy-plane.png",
+        "link": "/g/flappy-plane/index.html"
+      },
   ]
