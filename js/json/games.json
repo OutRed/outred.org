@@ -193,5 +193,10 @@
         "title": "JustFall.lol",
         "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/just-fall/splash.jpg",
         "link": "/g/just-fall/index.html"
+      },
+      {
+        "title": "Champion Island",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/champion-island/logo.jpg",
+        "link": "/g/champion-island/index.html"
       }
   ]
