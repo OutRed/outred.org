@@ -199,4 +199,19 @@
         "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/champion-island/logo.jpg",
         "link": "/g/champion-island/index.html"
       }
+      {
+        "title": "Chrome Dino",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/chrome-dino/icons/icon-256.png",
+        "link": "/g/chrome-dino/index.html"
+      },
+      {
+        "title": "Cluster Rush",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/cluster-rush/splash.png",
+        "link": "/g/cluster-rush/index.html"
+      }
+      {
+        "title": "Chill Radio",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/chill-radio/img/icon.png",
+        "link": "/g/chill-radio/index.html"
+      }
   ]
