@@ -45,7 +45,7 @@ fetch('games.json')
       const filteredData = data.filter(item => item.title.toLowerCase().includes(searchQuery));
       if (filteredData.length === 0) {
         // Display message when there are no matching search results
-        gamesContainer.innerHTML = '<center><p class="no-results-message">No results found. Make sure to double check spelling. Join the <a class="hyperlink" href="discord.gg">Discord server</a> to request a game.</p></center>';
+        gamesContainer.innerHTML = '<center><p class="no-results-message">🤨🤨🤨<br>Dang. No results found. Join the <a class="hyperlink" href="discord.gg">Discord server</a> to request a game tysm tysm.</p></center>';
       } else {
         // Render the grid of images for the matching search results
         renderGrid(filteredData);
