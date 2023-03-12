@@ -188,5 +188,10 @@
         "title": "Hacker Typer",
         "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/hackertype/logo192.png",
         "link": "/g/hackertype/index.html"
+      },
+      {
+        "title": "JustFall.lol",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/just-fall/splash.jpg",
+        "link": "/g/just-fall/index.html"
       }
   ]
