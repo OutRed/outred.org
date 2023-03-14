@@ -218,5 +218,15 @@
         "title": "Getting Over It",
         "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/getting-over-it/Scratch%20Getting%20Over%20It.webp",
         "link": "/g/getting-over-it/index.html"
+      },
+      {
+        "title": "Subway Surfers",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/subway-surfers/img/subwaysurfers.webp",
+        "link": "/g/subway-surfers/index.html"
+      },
+      {
+        "title": "Particle Clicker",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/particle-clicker/particleclicker.png",
+        "link": "/g/particle-clicker/index.html"
       }
   ]
