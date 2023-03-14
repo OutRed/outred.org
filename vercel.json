@@ -1,8 +1,0 @@
-{
-    "routes": [
-        { "src": "/proxy.php", "dest": "/proxy.php" }
-    ],
-    "build": {
-        "command": "echo 'No build step required'"
-    }
-}
