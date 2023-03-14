@@ -228,5 +228,10 @@
         "title": "Particle Clicker",
         "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/particle-clicker/particleclicker.png",
         "link": "/g/particle-clicker/index.html"
+      },
+      {
+        "title": "Geometry Dash",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/geometry-dash/splash.png",
+        "link": "/g/geometry-dash/index.html"
       }
   ]
