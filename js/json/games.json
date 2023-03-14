@@ -213,5 +213,10 @@
         "title": "Chill Radio",
         "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/chill-radio/img/icon.png",
         "link": "/g/chill-radio/index.html"
+      },
+      {
+        "title": "Getting Over It",
+        "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/getting-over-it/Scratch%20Getting%20Over%20It.webp",
+        "link": "/g/getting-over-it/index.html"
       }
   ]
