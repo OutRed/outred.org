@@ -1,5 +1,16 @@
-<form method="post" action="/proxy.php">
-    <label for="url">Enter a URL:</label>
-    <input type="text" name="url" id="url">
-    <input type="submit" value="Go">
-</form>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Proxy Page</title>
+  </head>
+  <body>
+    <h1>Enter URL to Proxy:</h1>
+    <form>
+      <input type="text" id="urlInput">
+      <button type="button" onclick="loadUrl()">Go</button>
+    </form>
+    <iframe id="proxyFrame" style="width:100%; height:100%;"></iframe>
+    <script src="main.js"></script>
+  </body>
+</html>
