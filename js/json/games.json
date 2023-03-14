@@ -5,6 +5,11 @@
       "link": "/g/n-gon/index.html"
     },
     {
+      "title": "Cookie Clicker",
+      "image": "https://raw.githubusercontent.com/OutRed/outred.org/main/g/cookie-clicker/cookie1.jpeg",
+      "link": "/g/cookie-clicker/index.html"
+    },
+    {
       "title": "Idle Breakout",
       "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/idlebreakout.png",
       "link": "/g/idle-breakout/index.html"
@@ -58,11 +63,6 @@
         "title": "Slope",
         "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/38AD7E36-E391-451F-9BBA-AE8F85073A91.jpeg",
         "link": "/g/slope/index.html"
-      },
-      {
-        "title": "Cookie Clicker",
-        "image": "https://raw.githubusercontent.com/OutRed/outred.github.io/main/img/cookieclicker.png",
-        "link": "/Cookie-Clicker-Source-Code"
       },
       {
         "title": "2048",
